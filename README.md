@@ -19,3 +19,15 @@
 - 杜邦线（公对公，母对母，公对母）
 - USB转TTL线
 
+## 准备开发环境
+
+```
+sudo apt-get install python-dev
+sudo apt-get install python-rpi.gpio
+
+# apt-cache search gpio # many gpio libs
+
+```
+
+[GPIO图](./docs/GPIO.jpg)
+
